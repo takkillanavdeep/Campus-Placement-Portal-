@@ -1,0 +1,7 @@
+cd campus-placement-portal
+git init
+git add .
+git commit -m "Campus placement portal"
+git branch -M main
+git remote add origin https://github.com/<your-username>/campus-placement-portal.git
+git push -u origin main
